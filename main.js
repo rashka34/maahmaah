@@ -61,7 +61,7 @@ const extraPara = document.querySelector("#extraPara");
 
 
 extraPara.style.fontWeight = "bold";
-extraPara.style. = "";
+
 extraPara.style.textAlign = "center";
 
 
